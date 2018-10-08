@@ -2,4 +2,4 @@
 
 THP - Jour 6
 
-Pair-programming avec Paloma Houhali 
+Pair-programming avec Paloma Mouhali 
